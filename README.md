@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mochibot
 
 mochibot is a chat bot built on the [Hubot][hubot] framework. It was
@@ -213,6 +212,3 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
-=======
-# mochibot
->>>>>>> c2236dc5272eba090bce4a0b3272fbe5a1bdd2fb
